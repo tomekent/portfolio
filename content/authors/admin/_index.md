@@ -18,7 +18,11 @@ organizations:
   url: "http://www.bristol.ac.uk"
 
 # Short bio (displayed in user profile at end of posts)
-bio: A post-doctoral research associate in Bristol University's Computer Science Department. Currently working on the T-B Phase project (Thales Bristol Partnership in Hybrid Autonomous Systems Engineering). I am interested in exploring how we can utilise AI, Machine Learning and Decision Making techniques within a number of key Multi-Agent Systems use-cases, e.g. Search and Rescue, Persistent Surveillance. My previous research has included designing, implementing and testing a number of path planning and decision making algorithms for autonomous cars on the Venturer project. Additionally, I did my PhD in Aerospace Engineering at the University of Bristol. Developing an analytic, geometric approach to finding optimal routes for commercial formation flight.
+bio: "A post-doctoral research associate in Bristol University's Computer Science Department. Currently working on the T-B Phase project (Thales Bristol Partnership in Hybrid Autonomous Systems Engineering). I am interested in exploring how we can utilise AI, Machine Learning and Decision Making techniques within a number of key Multi-Agent Systems use-cases, e.g. Search and Rescue, Persistent Surveillance."
+
+previous research:
+ - Designing, implementing and testing a number of path planning and decision making algorithms for autonomous cars on the Venturer project.
+ - Developing an analytic, geometric approach to finding optimal routes for commercial formation flight.
 
 interests:
 - Artificial Intelligence

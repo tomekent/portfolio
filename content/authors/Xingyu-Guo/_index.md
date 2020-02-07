@@ -1,16 +1,16 @@
 ---
 # Display name
-name: Karam Safarov
+name: "Xingyu Guo"
 
-# Username (this should match the folder name)
+# Username (this should match the folder name and the name on publications)
 authors:
-- Karam
+- Name "Xingyu Guo"
 
 # Is this the primary user of the site?
 superuser: false
 
-# Role/position
-role: Phd Student
+# Role/position (e.g., Professor of Artificial Intelligence)
+role: MSc Student
 
 # Organizations/Affiliations
 organizations:
@@ -18,19 +18,19 @@ organizations:
   url: "http://www.bristol.ac.uk"
 
 # Short bio (displayed in user profile at end of posts)
-bio:
+bio: "Learning model-based driving behaviour in micro-traffic simulations"
 
+# List each interest with a dash
 interests:
-- Transportation Simulation
-- Car following Models
-- Autonomous Cars
+- Model Based Behaviour
+- Car following models for autonomous Vehicles
+- Micro-Traffic Simulation
 
 education:
   courses:
-  - course: PhD in Aerospace Engineering
+  - course: MSc in Robotics
     institution: University of Bristol
-    year: "Ongoing"
-
+    year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -39,22 +39,12 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:karam.sofarov@bristol.ac.uk  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:xg12515@bristol.ac.uk"
 
-- icon: university
-icon_pack: fas
-link: http://www.bristol.ac.uk/engineering/people/karam-s-safarov/overview.html
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
 
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "karam.sofarovt@bristol.ac.uk"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PhD Students
+- MSc Students
 ---

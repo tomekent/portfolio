@@ -4,7 +4,7 @@ title: Bi-Level Optimisation for Assignment and Routing Problems
 event: TB-Phase
 event_url:
 
-summary: B
+summary: "We look at the use of bi-level optimisation techniques to solve a number of standard assignment and routing problems."
 abstract: "We look at the use of bi-level optimisation techniques to solve a number of standard assignment and routing problems."
 
 # Talk start and end times.

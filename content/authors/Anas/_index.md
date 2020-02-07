@@ -1,16 +1,16 @@
 ---
 # Display name
-name: Karam Safarov
+name: Anas Shrinah
 
 # Username (this should match the folder name)
 authors:
-- Karam
+- Anas
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Phd Student
+role: MSc Student
 
 # Organizations/Affiliations
 organizations:
@@ -18,18 +18,21 @@ organizations:
   url: "http://www.bristol.ac.uk"
 
 # Short bio (displayed in user profile at end of posts)
-bio:
+bio: Fail Safe Motion Planning for Driverless Cars
 
 interests:
-- Transportation Simulation
-- Car following Models
+- Motion Planning
+- Failsafe Controllers
 - Autonomous Cars
 
 education:
   courses:
-  - course: PhD in Aerospace Engineering
+  - course: MSc in Robotics
     institution: University of Bristol
-    year: "Ongoing"
+    year: 2017
+  - course: PhD Candidate
+    institution: Uninversity of bristol
+    year: present
 
 
 # Social/Academic Networking
@@ -39,8 +42,11 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:karam.sofarov@bristol.ac.uk  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:as16278@bristol.ac.uk  # For a direct email link, use "mailto:test@example.org".
 
+- icon: university
+  icon_pack: fas
+  link: https://research-information.bris.ac.uk/en/persons/anas-shrinah(432011d3-d378-4562-b362-26d8cd26ed2f).html
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -53,5 +59,5 @@ email: "Thomas.kent@bristol.ac.uk"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PhD Students
+- Alumni
 ---

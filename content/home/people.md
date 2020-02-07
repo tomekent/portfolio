@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 68  # Order that this section will appear.
 
 title = "Researchers"
-subtitle = ""
+subtitle = "Current research students that I supervise or have previously supervised. If you are interested in joining me feel free to send me an email."
 
 [content]
   # Choose which groups/teams of users to display.
@@ -20,10 +20,10 @@ subtitle = ""
 
 [design]
   # Show user's social networking links? (true/false)
-  show_social = false
+  show_social = true
 
   # Show user's interests? (true/false)
-  show_interests = true
+  show_interests = false
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -32,7 +32,7 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = "navy"
+  # color = "grey"
 
   # Background gradient.
   # gradient_start = "DeepSkyBlue"

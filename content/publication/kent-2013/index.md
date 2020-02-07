@@ -9,5 +9,10 @@ featured: false
 publication: "*AIAA Guidance, Navigation, and Control (GNC) Conference*"
 url_pdf: "http://arc.aiaa.org/doi/abs/10.2514/6.2013-4889"
 doi: "10.2514/6.2013-4889"
----
 
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  focal_point: ""
+  preview_only: false
+
+---
