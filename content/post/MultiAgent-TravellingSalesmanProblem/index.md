@@ -32,7 +32,12 @@ image:
 projects: [TBPHASE]
 ---
 
-This is a summary of some work published last year at the [2019 Genetic and Evolutionary Computation Conference](https://gecco-2019.sigevo.org/index.html/HomePage).
+This is a summary of some work published last year at the [2019 Genetic and Evolutionary Computation Conference](https://gecco-2019.sigevo.org/index.html/HomePage). Where we are looking to solve routing and allocation problems and trying to find ways to balance the increase in computational demand required when increasing the number of numbers of agents
+
+{{< figure src="bars.png" numbered="true" title="Trade-off between optimisation factors">}}
+
+If we want to solve increasingly complex problems, then we might either need more compute, or we sacrifice solution quality - **unless we can be smart about the way we decompose the problem**.
+
 
 ## General Problem
 There are a number of real world problems that require several agents to visit areas of interest, complete tasks and travel between them. These typically include problems such as surveillance, exploration or search and rescue.
