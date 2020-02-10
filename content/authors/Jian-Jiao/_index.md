@@ -31,6 +31,10 @@ education:
     institution: University of Bristol
     year: 2017
 
+social:
+- icon: envelope
+  icon_pack: fas
+  link: "mailto:jj15307.2015@my.bristol.ac.uk"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
