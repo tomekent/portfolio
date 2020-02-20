@@ -7,10 +7,10 @@ summary: ""
 authors: []
 tags: []
 categories: []
-date: 2020-02-10T17:10:03Z
-lastmod: 2020-02-10T17:10:03Z
+date: 2020-02-20T12:10:03Z
+lastmod: 2020-02-20T12:10:03Z
 featured: false
-draft: true
+draft: false
 math: true
 
 # Featured image
@@ -81,4 +81,4 @@ Some of our most recent work looks at whether we can simply train single agent p
 ![Agent performing persistent surveillance in a hex world](result_animation_3agents.gif)
 
 A paper which is currently under review, *Single-Agent Polices for the Multi-Agent Persistent Surveillance
-Problem via Artificial Heterogeneity*, describes how deploying multiple heterogeneous agents can cause undesirable emergent clustering behaviour. So stay tuned for that. 
+Problem via Artificial Heterogeneity*, describes how deploying multiple heterogeneous agents can cause undesirable emergent clustering behaviour. So stay tuned for that.
