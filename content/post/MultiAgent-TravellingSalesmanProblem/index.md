@@ -76,7 +76,7 @@ $$
 \begin{equation*}
   x_{ija} =
     \begin{cases}
-      1 & \text{if agent $a$ visits task $j$ immediately after task $i$,}\\\\\\
+      1 & \text{if agent $a$ visits task $j$ after $i$,}\\\\\\
       0 & \text{otherwise}
     \end{cases}
 \end{equation*}
