@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Research Associate in Applied Mathematics & Computer Science
+role: Senior Research Associate in Applied Mathematics & Computer Science
 
 # Organizations/Affiliations
 organizations:
