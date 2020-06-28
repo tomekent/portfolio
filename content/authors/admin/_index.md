@@ -21,15 +21,16 @@ organizations:
 bio: "A post-doctoral research associate in Bristol University's Computer Science Department. Currently working on the T-B Phase project (Thales Bristol Partnership in Hybrid Autonomous Systems Engineering). I am interested in exploring how we can utilise AI, Machine Learning and Decision Making techniques within a number of key Multi-Agent Systems use-cases, e.g. Search and Rescue, Persistent Surveillance."
 
 previous research:
- - Designing, implementing and testing a number of path planning and decision making algorithms for autonomous cars on the Venturer project.
- - Developing an analytic, geometric approach to finding optimal routes for commercial formation flight.
+ - Driverless Cars: Designing, implementing and testing path planning and decision making algorithms with real world participants for the Venturer project.
+ - Formation Flight: Developing an analytic, geometric approach to finding optimal routes for commercial formation flight.
 
 interests:
 - Artificial Intelligence
 - Decision Making
 - Path Planning
-- Autonomy
+- Multi-Agent Systems
 - Optimisation
+- Traffic Flow Theory
 
 education:
   courses:
@@ -66,12 +67,12 @@ social:
   link: https://github.com/tomekent
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#  icon_pack: ai
-#  link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "Thomas.kent@bristol.ac.uk"
+email: "contact@tomekent.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
