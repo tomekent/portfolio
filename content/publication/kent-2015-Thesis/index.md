@@ -1,0 +1,14 @@
+---
+title: "Optimal Routing and Assignment for Commercial Formation Flight"
+date: 2015-01-01
+publishDate: 2020-02-07T12:22:13.598863Z
+authors: ["Thomas E Kent"]
+publication_types: ["7"]
+abstract: "This thesis investigates the notion of fuel-reduction through formation flight for com- mercial aircraft, addressing the problems of global routing and assignment. A two stage centralised approach is presented, firstly, assuming a reduction in observed cost by flying in formation the routes, including rendezvous and break points, are calcu- lated to minimise a total cost. The interconnected assignment problem then takes a set of flights, their possible formations and corresponding costs and optimally allo- cates them into a cost-minimising formation fleet. An analytic geometric approach is used to develop a scalable methodology for the formation routing problem enabling the quick calculation of costs. The rapid evaluation allows the large scale fleet assignment problem to be solved via a Mixed Integer Linear Program in reasonable time. A Transatlantic case study shows possible formation fuel savings against solo flight of around 8.7% and 13.1% for formations up to size two and three respectively. Further case studies of three distinct sets of flights show that encouraging levels of saving can still be achieved by flights with varied distances, geographical locations and formation drag-reduction levels. For the more complex task of routing through wind, results show that the analytic approach can act as a reasonable estimate to the assignment problem, allowing higher- fidelity and computationally more intensive routing methods to be introduced via a post-process, significantly reducing solve time. Methods for mitigating the impact of uncertainty in aircraft take-off times are ex- plored, where a state-space approach, solved using value iteration, can provide optimal speed-policies for aircraft to follow for any possible realisation of delay. Additionally portfolio optimisation provides a method for formations to be assigned to simultane- ously maximise reward and minimise the associated risk. Finally the calculation of efficient frontiers allows matching of reward to desired levels of risk-aversion."
+featured: false
+publication: "University of Bristol"
+doi: "10.13140/RG.2.2.27277.74721"
+url_pdf: "files/publications/KentThesis2015.pdf"
+tags: ["Formation Flight", "Allocation", "Routing", "Optimisation", "Delay", "Dynamic Programming", "Door to door routing"]
+---
+

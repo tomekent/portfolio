@@ -30,7 +30,7 @@ image:
 links:
 - icon: file-pdf
   icon_pack: fas
-  name: pdf
+  name: slides
   url: "files/slides/CollectiveDynamics2019-10.pdf"
 url_code: ""
 

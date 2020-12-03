@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Christos Sevastopoulos
+title: Christos Sevastopoulos
 
 # Username (this should match the folder name)
 authors:

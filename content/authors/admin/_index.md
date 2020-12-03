@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Thomas E. Kent
+title: Thomas E. Kent
 
 # Username (this should match the folder name)
 authors:

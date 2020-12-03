@@ -8,5 +8,8 @@ abstract: "VENTURER was one of the first three UK government funded research and
 featured: true
 publication: "*Automation*"
 doi: "10.3390/automation1010002"
-url_pdf: "https://www.mdpi.com/2673-4052/1/1/2/pdf"
+url_pdf: "files/publications/Kent_etal_2020_Automation.pdf"
+tags: [ "autonomous vehicles", "autonomous systems", "automation", "future mobility", "sensors", "control", "simulation"]
+projects: ["TBPHASE"]
+
 ---

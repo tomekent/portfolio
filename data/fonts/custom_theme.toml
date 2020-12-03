@@ -1,0 +1,11 @@
+# Font style metadata
+name = "Minimal"
+
+# Optional Google font URL
+google_fonts = "Open+Sans:300,600|Press+Start+2P:400|Work+Sans:300|Encode+Sans+Semi+Expanded:wght@200|Inconsolata:wght@wght@200;400;700"
+
+# Font families
+heading_font = "Encode Sans Semi Expanded"
+body_font = "Open Sans"
+nav_font = "Open Sans"
+mono_font = "Inconsolata"

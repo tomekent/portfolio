@@ -165,4 +165,4 @@ Sadly that's really the issue here, in many optimisation problems, but particula
 
 ## Read the full paper
 If you want to read in a bit more detail then you can find the full paper here:
-{{< publication href="/publication/kent-2019-a" text="Kent 2019" >}}
+{{< cite page="/publication/kent-2019-a" view="4">}}

@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Karam Safarov
+title: Karam Safarov
 
 # Username (this should match the folder name)
 authors:
