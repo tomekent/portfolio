@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Potential of Formation Flight for Commercial Aviation: Three Case Studies"
-authors: ["Thomas Kent", "Arthur Richards"]
+authors: ["Thomas E. Kent", "Arthur G. Richards"]
 date: 2020-12-02T09:18:15+01:00
 doi: ""
 
