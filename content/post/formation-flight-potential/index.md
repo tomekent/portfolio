@@ -9,7 +9,7 @@ tags: []
 categories: []
 date: 2020-12-09T18:27:42Z
 lastmod: 2020-12-09T18:27:42Z
-featured: false
+featured: true
 draft: false
 math: true
 # Featured image
@@ -32,7 +32,7 @@ projects: []
 
 Follow on work from my PhD has recently been published in the [Journal of Aircraft](https://arc.aiaa.org/doi/10.2514/1.C035954) and is titled ["Potential of Formation Flight for Commercial Aviation: Three Case Studies"]({{< ref "publication/kent-2020-JOA">}}). 
 
-The paper explores the concept of utilising the fuel-saving benefits of formation flight within a commerical flight setting. 
+The paper explores the concept of utilising the fuel-saving benefits of formation flight within a commercial flight setting. 
 
 I'd like to take the opportunity to have a quick summary overview of our approach and some of the exciting results.
 
@@ -52,7 +52,7 @@ The aerodynamic fundamentals behind formation flight for aircraft are fairly wel
 ## Ok, so theoretically how much could this fuel saving be?
 While estimates regarding the exact levels of drag reduction are mixed, they all remain extremely promising. Some flight tests have recorded levels of induced-drag being reduced by as much as 40-60% for the trail aircraft in a formation of two, equating to roughly a 20-30% reduction in total drag. Alongside this, tests have also directly measured fuel-flow reductions, for an aircraft flying in the upwash of another aircraft, at levels of anywhere **between 4-18%**. Importantly for commercial formation flight, these kinds of savings can been observed **flying as much as 10-40 wingspans behind the leading aircraft**. 
 
-So in theory, what we call the *proportional discount factor* $\lambda$, could be in the range of 1-20%. However, fuel is only saved during formation and so many inefficiencies arise from aspects such as climbing and descending to appropriate flight levels, flying to rendevouz locations and even differing aircraft types. In an optimal situation formations would have identical departure and destination airports, spending their entire flight in formation. This is clearly not realistic and these inefficiencies naturally coincide with airlines needing to serve a large number of distinct airports at different times of the day.
+So in theory, what we call the *proportional discount factor* $\lambda$, could be in the range of 1-20%. However, fuel is only saved during formation and so many inefficiencies arise from aspects such as climbing and descending to appropriate flight levels, flying to rendezvous locations and even differing aircraft types. In an optimal situation formations would have identical departure and destination airports, spending their entire flight in formation. This is clearly not realistic and these inefficiencies naturally coincide with airlines needing to serve a large number of distinct airports at different times of the day.
 
 
 ## Ok, how about realistically?
@@ -64,7 +64,7 @@ Focusing on two-aircraft formations, the paper builds upon theory outlined in a 
   3. **Assignment:** Given the costs of all combinations remaining, assign a final fleet of formations to fly in order to minimize total cost.
 
 This approach is applied to three distinct use cases, with each being a representative, yet fictitious, airline:
- * **LHA: Long Haul Airline** - Flights operating to serve a single regional airport (Singapore Internation Airport)
+ * **LHA: Long Haul Airline** - Flights operating to serve a single regional airport (Singapore International Airport)
  * **TAA: Transatlantic Airline** - Flights travelling from the United States to the UK and Mainland Europe
  * **LCA: Low Cost Airline** - Short and Medium-haul flights operating across Europe. 
 
@@ -81,7 +81,7 @@ The overall average percentage fuel savings were promising for all the flight li
 The paper looks at several key performance and suitability measures, for a range of proportional discount factors $\lambda$ between 1-20%, and a range of scheduling constraints.
 
 ### The effect of scheduling constraints
-Current airline schedules are complex and require careful planning. Aircraft looking to join in formation will have to **alter their route and/or their schedule**. For two flight to synchronise for optimal rendevouz/break locations, aircraft will need to either alter their speeds or their takeoff times (The impact of delay/speed changes can be found in our [UKACC paper]({{< ref "publication/kent-2014">}})). 
+Current airline schedules are complex and require careful planning. Aircraft looking to join in formation will have to **alter their route and/or their schedule**. For two flight to synchronize for optimal rendezvous/break locations, aircraft will need to either alter their speeds or their takeoff times (The impact of delay/speed changes can be found in our [UKACC paper]({{< ref "publication/kent-2014">}})). 
 
 For a fixed formation discount factor, $\lambda$, of 10%, as we *dial-up* the number of minutes each formation's schedule can be altered ($\Delta t$) we can observe the effect it has on formation savings.
 
@@ -107,7 +107,7 @@ If a formation pair has a formation discount factor of 10%, this means that if b
 
 {{< figure src="utilisation.png" numbered="true" title="Utilisation of potential fuel saving">}}
 
-The values are plotted show a clear distinction between the three case studies. The TAA flights can achieve anywhere up to a very impressive 96% utilization; that is, out of the 9.3% theoretical-maximum savings achievable, roughly 8.9% was realized. The LCA and LHA flights, respectively, can achieve levels of utilization of up to roughly 35 and 75%. As the utilization factor is a result of a number of different components, such as geographical suitability and flight distance, but importantly dictated by the theoretical maximum. As aircraft are only considered to be in formations during the cruise leg of their flights, so a higher proportion of cruise to noncruise flights equates to a greater theoretical-maximum saving. This adds to the fairly intuative conclusion that longer flights in general are better suited to formation flight.
+The values are plotted show a clear distinction between the three case studies. The TAA flights can achieve anywhere up to a very impressive 96% utilization; that is, out of the 9.3% theoretical-maximum savings achievable, roughly 8.9% was realized. The LCA and LHA flights, respectively, can achieve levels of utilization of up to roughly 35 and 75%. As the utilization factor is a result of a number of different components, such as geographical suitability and flight distance, but importantly dictated by the theoretical maximum. As aircraft are only considered to be in formations during the cruise leg of their flights, so a higher proportion of cruise to non-cruise flights equates to a greater theoretical-maximum saving. This adds to the fairly intuitive conclusion that longer flights in general are better suited to formation flight.
 
 ### Sensitivity to Formation Discount
 
@@ -136,6 +136,8 @@ In fact they are already conducting flight tests:
 
 ## Further reading
 
-You can take a look at the paper [here]({{< ref "publication/kent-2020-JOA">}}) and let me know if you have any questions.
+You can take a look at the paper:
+{{< cite page="/publication/kent-2020-JOA" view="4">}}
+
 
 You can also play around with some of the data here: [http://tomekent.com/FormationFlight/](https://tomekent.com/FormationFlight)
