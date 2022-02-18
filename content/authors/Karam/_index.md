@@ -29,7 +29,7 @@ education:
   courses:
   - course: PhD in Aerospace Engineering
     institution: University of Bristol
-    year: "Ongoing"
+    year: "2022"
 
 
 # Social/Academic Networking
