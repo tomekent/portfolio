@@ -37,9 +37,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: mailto:karam.sofarov@bristol.ac.uk  # For a direct email link, use "mailto:test@example.org".
+# - icon: envelope
+#   icon_pack: fas
+#   link: mailto:karam.sofarov@bristol.ac.uk  # For a direct email link, use "mailto:test@example.org".
 
 - icon: university
 icon_pack: fas
@@ -51,7 +51,7 @@ link: http://www.bristol.ac.uk/engineering/people/karam-s-safarov/overview.html
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "karam.sofarovt@bristol.ac.uk"
+# email: "karam.sofarovt@bristol.ac.uk"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
