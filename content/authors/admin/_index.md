@@ -10,17 +10,18 @@ authors:
 superuser: true
 
 # Role/position
-role: Senior Research Associate in Applied Mathematics & Computer Science
+role: Research Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: University of Bristol
-  url: "http://www.bristol.ac.uk"
+- name: Mind Foundry
+  url: "http://mindfoundry.ai"
 
 # Short bio (displayed in user profile at end of posts)
-bio: "A post-doctoral research associate in Bristol University's Computer Science Department. Currently working on the T-B Phase project (Thales Bristol Partnership in Hybrid Autonomous Systems Engineering). I am interested in exploring how we can utilise AI, Machine Learning and Decision Making techniques within a number of key Multi-Agent Systems use-cases, e.g. Search and Rescue, Persistent Surveillance."
+bio: "A Research Scientist at Mind Foundry. Previously a Senior Research Associate at the University of Bristol. I am interested in exploring how we can utilise AI, Machine Learning and Decision Making techniques to solve real world problems"
 
 previous research:
+ - Multi-Agent Systems: Writing Multi-Agent simulation software and exploring how simple single-agent behaviour can be deployed in multi-agent systems.
  - Driverless Cars: Designing, implementing and testing path planning and decision making algorithms with real world participants for the Venturer project.
  - Formation Flight: Developing an analytic, geometric approach to finding optimal routes for commercial formation flight.
 
@@ -29,8 +30,8 @@ interests:
 - Decision Making
 - Path Planning
 - Multi-Agent Systems
+- Simulation
 - Optimisation
-- Traffic Flow Theory
 
 education:
   courses:
@@ -69,7 +70,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/cv.pdf
+  link: files/Tom Kent - 2022 - resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "contact@tomekent.com"

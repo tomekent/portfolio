@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 68  # Order that this section will appear.
 
 title = "Researchers"
-subtitle = "Current research students that I supervise or have previously supervised. If you are interested in joining me feel free to send me an email."
+subtitle = "Research students that I have supervised over the years."
 
 [content]
   # Choose which groups/teams of users to display.

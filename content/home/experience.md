@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "University of Bristol"
   date_start = "2018-01-01"
-  date_end = ""
+  date_end = "2022-03-20"
   description = """As part of the TB-Phase project: a 5 year EPSRC Prosperity Partnership researching new engineering design for hybrid autonomous systems. My research explores the use of Multi-Agent systems for tasking, routing and surveillance problems. Using Evolutionary Algorithms and Reinforcement Learning to develop local single-agent policies capable of scaling to multi-agent scenarios."""
 
 [[experience]]
