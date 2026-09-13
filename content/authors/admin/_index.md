@@ -18,7 +18,7 @@ organizations:
   url: "http://mindfoundry.ai"
 
 # Short bio (displayed in user profile at end of posts)
-bio: "A Research Scientist at Mind Foundry. Previously a Senior Research Associate at the University of Bristol. I am interested in exploring how we can utilise AI, Machine Learning and Decision Making techniques to solve real world problems"
+bio: "Lead Machine Learning Scientist at Mind Foundry, with 10+ years' experience spanning applied research and delivery leadership in machine learning, autonomous systems, robotics in defence and national security. I combine deep technical expertise in machine learning, optimisation and multi-agent systems with people leadership, translating ambiguous operational problems into deployed ML solutions. Previously a Senior Research Associate at the University of Bristol."
 
 previous research:
  - Multi-Agent Systems: Writing Multi-Agent simulation software and exploring how simple single-agent behaviour can be deployed in multi-agent systems.
@@ -26,12 +26,11 @@ previous research:
  - Formation Flight: Developing an analytic, geometric approach to finding optimal routes for commercial formation flight.
 
 interests:
-- Artificial Intelligence
-- Decision Making
-- Path Planning
-- Multi-Agent Systems
-- Simulation
+- Machine Learning
+- Signal Processing
 - Optimisation
+- Multi-Agent Systems
+- Technical Leadership
 
 education:
   courses:
@@ -70,7 +69,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/Tom Kent - 2022 - resume.pdf
+  link: files/Tom Kent - 2026 - resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "contact@tomekent.com"

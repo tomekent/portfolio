@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Research"
-subtitle = "Some of my previous projects"
+title = "Experience"
+subtitle = "My career so far"
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -17,6 +17,24 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Lead Machine Learning Scientist"
+  company = "Mind Foundry"
+  company_url = "http://mindfoundry.ai"
+  location = "Oxfordshire, UK"
+  date_start = "2023-01-01"
+  date_end = ""
+  description = """Set technical direction and scientific standards across Mind Foundry's Defence and National Security portfolio. Lead cross-functional teams of Machine Learning Scientists and Engineers, line managing senior technical staff and driving hiring, mentorship and team growth. Partner with customers and commercial stakeholders to translate ambiguous operational challenges into deployed ML solutions, leading technical bids that have helped win over £2.5m in new and follow-on work. Hands-on technical lead across projects spanning computer vision, anomaly detection, predictive maintenance, electronic surveillance, and localisation and tracking."""
+
+[[experience]]
+  title = "Machine Learning Scientist"
+  company = "Mind Foundry"
+  company_url = "http://mindfoundry.ai"
+  location = "Oxfordshire, UK"
+  date_start = "2022-01-01"
+  date_end = "2023-01-01"
+  description = """Developed machine learning, signal processing, simulation and modelling techniques for novel solutions across domains including radar and RF sensing. Acted as technical lead on projects spanning radar, tracking, multi-agent systems, explainability and interpretability, and contributed significantly to writing successful bids for new and follow-on work."""
 
 [[experience]]
   title = "Hiearchical Decision Making in Multi-Agent Systems"
